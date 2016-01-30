@@ -1,0 +1,3 @@
+cd ~/.vim/bundle
+git clone https://github.com/Raimondi/delimitMate.git
+#let delimitMate_expand_cr = 1
